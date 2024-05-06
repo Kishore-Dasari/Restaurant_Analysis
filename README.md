@@ -1,0 +1,1 @@
+Project Overview: I had the privilege of diving into the vibrant world of restaurant data analysis with Power BI. The project is structured around three main pages: Navigation, Mexican Restaurant Analysis, and Country Mexico.
